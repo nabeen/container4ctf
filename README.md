@@ -9,3 +9,5 @@ ubuntu official image. see: [ubuntu \- Docker Hub](https://hub.docker.com/_/ubun
 ## included packages
 
 - `gdb`
+- `tshark`
+- `imagemagick`
