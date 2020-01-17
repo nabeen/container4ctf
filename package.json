@@ -1,0 +1,23 @@
+{
+  "name": "container4ctf",
+  "version": "0.0.1",
+  "description": "Docker container environment for CTF.",
+  "scripts": {
+    "develop": "docker-compose -f \"docker-compose.yaml\" up -d --build",
+    "shell": "docker exec -it ctf_container /bin/sh -c \"[ -e /bin/bash ] && /bin/bash || /bin/sh\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nabeen/container4ctf.git"
+  },
+  "keywords": [
+    "ubuntu",
+    "CTF"
+  ],
+  "author": "nabeen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nabeen/container4ctf/issues"
+  },
+  "homepage": "https://github.com/nabeen/container4ctf#readme"
+}
