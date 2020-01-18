@@ -6,8 +6,9 @@ Docker container environment for CTF.
 
 ubuntu official image. see: [ubuntu \- Docker Hub](https://hub.docker.com/_/ubuntu/)
 
-## included packages
+## included specific packages
 
 - `gdb`
 - `tshark`
 - `imagemagick`
+- `peco`

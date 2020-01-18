@@ -8,4 +8,8 @@ RUN apt-get install -y \
     gdb \
     lib32z1 \
     tshark \
-    imagemagick
+    imagemagick \
+    less \
+    peco \
+    netcat \
+    wget
