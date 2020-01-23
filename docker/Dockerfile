@@ -12,4 +12,6 @@ RUN apt-get install -y \
     less \
     peco \
     netcat \
+    nkf \
+    vim \
     wget
