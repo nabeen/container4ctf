@@ -12,6 +12,7 @@ ubuntu official image. see: [ubuntu \- Docker Hub](https://hub.docker.com/_/ubun
 - `tshark`
 - `imagemagick`
 - `peco`
+- `nkf`
 
 ## usage
 
